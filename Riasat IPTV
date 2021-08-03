@@ -72,7 +72,7 @@ http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/sristytv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Bangla", Gazi TV
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+http://rv.bleutv.net:80/live/477816014111154/477816014111154/83819.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangla", RTV
 http://103.205.133.19/hls/rtv.m3u8
@@ -203,7 +203,7 @@ http://103.109.56.116/live/skyfeed1022/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 1 HD
 http://103.81.104.118/hls/stream12.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Star Sports Select 2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports", Str Sports Select 2
 http://103.109.56.116/live/skyfeed1024/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T-Sports HD
@@ -223,6 +223,9 @@ http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T-Sports 2
 http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Fan Code
+https://fancodealive1-a.akamaihd.net/d91768f4d7e047f9a53c680602fc51f5/ap-south-1/6008340455001/profile_1/hdntl=exp=1628078722~acl=%2f*~id=116502193_MbD_RBZ2ovlvdPQV~data=hdntl~hmac=9bc0ef99de4c21cc66870daa3e8b9e571e337624fe001b9546c5e5238401bc86/chunklist_dvr.m3u8?hdnea=st=1627992320~exp=9007200882733311~acl=/d91768f4d7e047f9a53c680602fc51f5/*/profile_1/chunklist_dvr.m3u8*~hmac=8edf81457c13f2073b711fab6e4ebad5ffd8cab5aaf3c89c6f089718baec065a
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary & Cartoon", Discovery HD
 http://103.109.56.116/live/skyfeed1015/index.m3u8
