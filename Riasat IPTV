@@ -542,8 +542,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Music", Zoom
 http://103.81.104.118/hls/stream8.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Live Sports 1
-http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", CPL 2021
+http://137.59.155.77:8088/hls/07starsports1.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Live Sports 2
 https://sonydaime.akamaized.net/hls/live/2005445/DAI6ME/hdntl=exp=1628155084~acl=%2f*~id=6720b55991fc40d3983da2b5ce13d0ce-1594526363695-2012270322163515623~data=hdntl~hmac=cf468c4da097291675261ffae943353911b422245a4a962c213f35ee48c20ecd/master_1848.m3u8
