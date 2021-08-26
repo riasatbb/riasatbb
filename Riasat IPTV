@@ -266,6 +266,186 @@ http://103.205.133.48/hls/sonypix.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="One Stop Media-BDIX", 9X Music [2]
 http://103.205.133.48/hls/9xm.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Alif Laila-BDIX", Asian TV
+http://tv.aliflailabd.com:8989/asiantv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Alif Laila-BDIX", ATN Bangla
+http://tv.aliflailabd.com:8989/atn-bangla/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Alif Laila-BDIX", ATN News
+http://tv.aliflailabd.com:8989/atn-news/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Alif Laila-BDIX", Bangla TV
+http://tv.aliflailabd.com:8989/bangla-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/H9qgGSc.png" group-title="Alif Laila-BDIX", Bangladesh Television
+http://tv.aliflailabd.com:8989/btv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Alif Laila-BDIX", Banglavision HD
+http://tv.aliflailabd.com:8989/bangla-vision/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Alif Laila-BDIX", Boishakhi TV
+http://tv.aliflailabd.com:8989/boishakhi-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Alif Laila-BDIX", Channel 24 HD
+http://tv.aliflailabd.com:8989/channel24/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Alif Laila-BDIX", Channel 9 HD
+http://tv.aliflailabd.com:8989/channel9/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Alif Laila-BDIX", Channel I HD
+http://tv.aliflailabd.com:8989/channel-i/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Alif Laila-BDIX", DBC News
+http://tv.aliflailabd.com:8989/dbc-news/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Alif Laila-BDIX", Deepto TV HD
+http://tv.aliflailabd.com:8989/depto-bangla/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/i8T9qQs.png" group-title="Alif Laila-BDIX", Ekattor TV HD
+http://tv.aliflailabd.com:8989/ekattor/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="Alif Laila-BDIX", Gazi TV HD
+http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Alif Laila-BDIX", Jamuna TV
+http://tv.aliflailabd.com:8989/jamuna-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/7ftu2Rt.jpg" group-title="Alif Laila-BDIX", Maasranga TV HD
+http://tv.aliflailabd.com:8989/maasranga/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Alif Laila-BDIX", My TV BD
+http://tv.aliflailabd.com:8989/my-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="Alif Laila-BDIX", Nagorik TV
+http://tv.aliflailabd.com:8989/nagorik-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/FxsW4XI.png" group-title="Alif Laila-BDIX", News 24 HD
+http://tv.aliflailabd.com:8989/news24-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Alif Laila-BDIX", NTV BD
+http://tv.aliflailabd.com:8989/ntv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Alif Laila-BDIX", RTV HD
+http://tv.aliflailabd.com:8989/rtv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Alif Laila-BDIX", SA TV
+http://tv.aliflailabd.com:8989/satv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Z2QvpTn.png" group-title="Alif Laila-BDIX", Shomoy TV
+http://tv.aliflailabd.com:8989/somoy-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Alif Laila-BDIX", Colors Bangla HD
+http://tv.aliflailabd.com:8989/colors-bangla/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Alif Laila-BDIX", Jalsha Movies HD
+http://tv.aliflailabd.com:8989/jalsha-movies/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Alif Laila-BDIX", Sony Aat
+http://tv.aliflailabd.com:8989/sony-aath/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Alif Laila-BDIX", Star Jalsha HD
+http://tv.aliflailabd.com:8989/star-jalsha/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Alif Laila-BDIX", Zee Bangla Cinema
+http://tv.aliflailabd.com:8989/zee-cinema/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Alif Laila-BDIX", Zee Bangla SD
+http://tv.aliflailabd.com:8989/zee-bangla/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Alif Laila-BDIX", Colors HD
+http://tv.aliflailabd.com:8989/colors-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Alif Laila-BDIX", Sony Entertainment HD
+http://tv.aliflailabd.com:8989/sony-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Alif Laila-BDIX", Star Plus HD
+http://tv.aliflailabd.com:8989/star-plus/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Alif Laila-BDIX", Zee TV HD
+http://tv.aliflailabd.com:8989/zeetv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Alif Laila-BDIX", Sony Max HD
+http://tv.aliflailabd.com:8989/setmax/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Alif Laila-BDIX", Zee Cinema HD
+http://tv.aliflailabd.com:8989/zee-cinema/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/oCPx7Wa.png" group-title="Alif Laila-BDIX", ESPN
+http://tv.aliflailabd.com:8989/sony-espn-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Alif Laila-BDIX", Sony Six HD
+http://tv.aliflailabd.com:8989/sony-six-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Alif Laila-BDIX", Sony Ten 1 HD
+http://tv.aliflailabd.com:8989/sony-ten1-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="Alif Laila-BDIX", Sony Ten 2 HD
+http://tv.aliflailabd.com:8989/sony-ten2/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Alif Laila-BDIX", Sony Ten 3 HD
+http://tv.aliflailabd.com:8989/sony-ten3/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Alif Laila-BDIX", Star Sports 1 SD
+http://tv.aliflailabd.com:8989/star-sports1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Alif Laila-BDIX", Star Sports Select 1 HD
+http://tv.aliflailabd.com:8989/star-sports-select1/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Alif Laila-BDIX", Star Sports Select 2 HD
+http://tv.aliflailabd.com:8989/star-sports-select2/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Alif Laila-BDIX", T Sports
+http://tv.aliflailabd.com:8989/tsports/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/dYLwOJA.png" group-title="Alif Laila-BDIX", Cartoon Network
+http://tv.aliflailabd.com:8989/cartoon-network/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Alif Laila-BDIX", Duronto TV
+http://tv.aliflailabd.com:8989/duronto-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Alif Laila-BDIX", Nick
+http://tv.aliflailabd.com:8989/nick/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Alif Laila-BDIX", Discovery HD
+http://tv.aliflailabd.com:8989/discovery/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Alif Laila-BDIX", National Geographic HD
+http://tv.aliflailabd.com:8989/natgeo-wild/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Alif Laila-BDIX", TLC HD
+http://tv.aliflailabd.com:8989/tlc-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="Alif Laila-BDIX", AXN
+http://tv.aliflailabd.com:8989/axn-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="Alif Laila-BDIX", HBO
+http://tv.aliflailabd.com:8989/hbo/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="Alif Laila-BDIX", Sony Pix HD
+http://tv.aliflailabd.com:8989/sony-pix-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="Alif Laila-BDIX", Star Movies HD
+http://tv.aliflailabd.com:8989/star-movies-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/JJTT2Pq.png" group-title="Alif Laila-BDIX", BBC World News
+http://tv.aliflailabd.com:8989/bbc-world/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Edi1XS1.png" group-title="Alif Laila-BDIX", MNX
+http://tv.aliflailabd.com:8989/mn-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="Alif Laila-BDIX", 9XM
+http://tv.aliflailabd.com:8989/9xm/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Alif Laila-BDIX", Gaan Bangla
+http://tv.aliflailabd.com:8989/gaanbangla/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/PmXZNaK.png" group-title="Alif Laila-BDIX", RTV Music
+http://tv.aliflailabd.com:8989/rtvmusic/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Alif Laila-BDIX", Sangeet Bangla
+http://tv.aliflailabd.com:8989/sangeet-bangla/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangla", Ananda TV
 http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
 
