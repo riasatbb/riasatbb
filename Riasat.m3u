@@ -1062,7 +1062,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zee5_romance/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", CPL 2021
-http://137.59.155.77:8088/hls/07starsports1.m3u8
+https://vsd134.mycdn.me/hls/1647032470086.m3u8/sig/osXCArYQ0SE/expires/1634217492200/srcIp/51.38.178.16/clientType/0/srcAg/CHROME_ANDROID/mid/2693717827142/1647032470086_high/index.m3u8?p
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Live Sports 2
 https://sonydaime.akamaized.net/hls/live/2005445/DAI6ME/hdntl=exp=1628155084~acl=%2f*~id=6720b55991fc40d3983da2b5ce13d0ce-1594526363695-2012270322163515623~data=hdntl~hmac=cf468c4da097291675261ffae943353911b422245a4a962c213f35ee48c20ecd/master_1848.m3u8
