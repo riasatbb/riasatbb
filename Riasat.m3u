@@ -1025,11 +1025,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Music", Zoom
 https://y5w8j4a9.ssl.hwcdn.net/zee5_romance/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", CPL 2021
-https://1rdk.short.gy/Himel-Himu/Vivo_Ipl_2021_Grand-Finale/Hotstar-English/CSK-VS-KKR.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Live Sports 2
-https://sonydaime.akamaized.net/hls/live/2005445/DAI6ME/hdntl=exp=1628155084~acl=%2f*~id=6720b55991fc40d3983da2b5ce13d0ce-1594526363695-2012270322163515623~data=hdntl~hmac=cf468c4da097291675261ffae943353911b422245a4a962c213f35ee48c20ecd/master_1848.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-N45BGwpexsZKO6vqYjNq2OtSPCqX3UmUw&usqp=CAU" group-title="Sports", ICC T20 Worldcup 2021
+https://1rdk.short.gy/https://1rdk.short.gy/Himel-Himu/ICC-Mens-WCT20-2021/Hotstar-English/BANLADESH-VS-SCOTLAND.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.pinimg.com/originals/11/b1/48/11b14885c76a7e6534130043e86337d0.png" group-title="Sports", BEIN SPORTS 1 HD
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
@@ -1081,6 +1078,9 @@ http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T-sports 
 http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Super Sports
+http://93.157.62.180/Supersport1/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports HD
 http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
