@@ -1082,6 +1082,9 @@ http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Super Sports
 http://93.157.62.180/Supersport1/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Live Sports
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/RhCQA4ypI76UVRO9g92WSOPOiehZ-hzHxfiltl3vSxUTf94r_A2-AgdBxqBP8reiEoKvVQ8r5mnI7MAbS_ghvA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports HD
 http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
 
