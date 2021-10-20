@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Live Sports", G TV
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1634683416&md5=CrNtEJFwkDeW4IfkTGSa-Q&user=ef3b0701f26743a4a12ce79435bc6d0d
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Live Sports", T SPORTS
-https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1634682932&md5=yBDAUVt_37IYHcej8vMLAA&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt81QoLvFQ8IJRD3c9mHSuC2EJxkCNlRVXMA&usqp=CAU" group-title="Live Sports", Hotstar
+https://1ojy.short.gy/Nayeem-Parvez/T20-WORLD-CUP/Hotstar-English.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-N45BGwpexsZKO6vqYjNq2OtSPCqX3UmUw&usqp=CAU" group-title="Live Sports", ICC T20 Worldcup 2021
-https://1rdk.short.gy/Himel-Himu/ICC-Mens-WCT20-2021/Hotstar-English/BANLADESH-VS-SCOTLAND.m3u8
+http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/NDVadMe.png" group-title="Live Sports", Star Sports 2
 http://93.152.174.144:4000/play/ss2in/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-N45BGwpexsZKO6vqYjNq2OtSPCqX3UmUw&usqp=CAU" group-title="Live Sports", T20 WorldCup 2
+http://10.16.100.245/hindi/T_Sports.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/LeIa06D.png" group-title="Indian Bangla", ABP Ananda
 https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
