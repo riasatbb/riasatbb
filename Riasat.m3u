@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt81QoLvFQ8IJRD3c9mHSuC2EJxkCNlRVXMA&usqp=CAU" group-title="Live Sports", Hotstar
-https://1rdk.short.gy/Himel-Himu/ICC-Mens-T20-WC-2021/Hotstar-English/IND-VS-PAK.m3u8
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/QJBVOv8qRWTCMrV-lFDZmxTmETtYBmvFwBfKQyl5UYz0qbpjESjf8Tjwjafi8s07Q5h83qlsEWduzHCWmg46CA/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-N45BGwpexsZKO6vqYjNq2OtSPCqX3UmUw&usqp=CAU" group-title="Live Sports", ICC T20 Worldcup 2021
 http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
