@@ -14,6 +14,9 @@ http://10.16.100.245/hindi/T_Sports.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Live Sports", Gazi TV
 https://nayeem-parvez.tk/digijadoo/Gazi-TV.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Live Sports", Hotstar 2
+https://localiptv.tk/Local_IPTV_PLAYLIST/HOTSTAR_AUTO_ENGLISH.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/LeIa06D.png" group-title="Indian Bangla", ABP Ananda
 https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
 
