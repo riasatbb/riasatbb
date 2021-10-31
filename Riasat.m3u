@@ -11,6 +11,9 @@ http://93.152.174.144:4000/play/ss2in/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-N45BGwpexsZKO6vqYjNq2OtSPCqX3UmUw&usqp=CAU" group-title="Live Sports", T20 WorldCup 2
 http://10.16.100.245/hindi/T_Sports.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Live Sports", T-sports 
+https://nayeem-parvez.tk/BDIX/T-Sports.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/LeIa06D.png" group-title="Indian Bangla", ABP Ananda
 https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
 
