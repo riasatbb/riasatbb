@@ -6,7 +6,7 @@ http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/
 http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://imgur.com/NDVadMe.png" group-title="Live Sports", Star Sports 2
-http://93.152.174.144:4000/play/ss2in/index.m3u8
+http://185.180.15.13:2200/TR-N/RTA_SPORTS_HD-afg/tracks-v1a1/mono.m3u8?token=Rk
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV-N45BGwpexsZKO6vqYjNq2OtSPCqX3UmUw&usqp=CAU" group-title="Live Sports", T20 WorldCup 2
 http://10.16.100.245/hindi/T_Sports.m3u8
