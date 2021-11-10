@@ -20,8 +20,8 @@ http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Live Sports", A Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Live Sports", T-sports 
-https://live.sonyplex.com/sonyplex/T-SPORTS.stream/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Live Sports", GTV
+http://stream.dhakaflix.com:8081/live/GTV-4K/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Live Sports", Hotstar
 https://localiptv.tk/Local_IPTV_PLAYLIST/HOTSTAR_AUTO_ENGLISH.m3u8
