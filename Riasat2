@@ -29,8 +29,8 @@ https://nayeem-parvez.tk/Hotstar-Hindi_Auto.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Live Sports", Ten Sports
 http://89.187.162.89/Capital_Music/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Live Sports", Hotstar 2
-https://localiptv.tk/Local_IPTV_PLAYLIST/HOTSTAR_AUTO_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Live Sports", Star Sports 2
+http://nv6mxf.ecm.tm/806B6CF/143120e/SM_FHD_SPO_STARSPORTSHINDI1/tracks-v1a1/index.m3u8?token=a9cdc5cc28e886b82906d940f00701380ce8d6829042403aff63670a9c27a5cc9d6b4183eeb1fba32f64d8e700c1fdecd70504b63353e66098dd0d3aef62971e8d51cd81ae0e6f44ccfab76f0479d8c2ab2e20dc5b2b8bf5bcc91f62df5f33df28fa936c71b1a93593
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/LeIa06D.png" group-title="Indian Bangla", ABP Ananda
 https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
