@@ -29,6 +29,9 @@ https://nayeem-parvez.tk/Hotstar-Hindi_Auto.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Live Sports", Ten Sports
 http://89.187.162.89/Capital_Music/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Live Sports", Hotstar 2
+https://localiptv.tk/Local_IPTV_PLAYLIST/HOTSTAR_AUTO_ENGLISH.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/LeIa06D.png" group-title="Indian Bangla", ABP Ananda
 https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
 
@@ -346,6 +349,21 @@ https://m3u-editor.com/serve/387881f0-4486-11ec-a861-63a1131bf430/424938536
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/1XbycYg.jpg" group-title="Bangla", RTV
 https://m3u-editor.com/serve/387881f0-4486-11ec-a861-63a1131bf430/424938535
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://pcdn1.jagobd.com/images/s-oel28g1609784762485.jpg" group-title="Bangla", Alpona TV
+https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/9grJznW.jpg" group-title="Bangla", Ananda TV
+https://m3u-editor.com/serve/387881f0-4486-11ec-a861-63a1131bf430/424938538
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla", Boishakhi TV
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/05/nakhsiptv-1.jpg" group-title="Bangla", Nokshi TV
+http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Bangla", SATV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla", ATN Bangla
 http://103.159.4.38:5868/BD-BANGLA-6/tracks-v1a1/mono.m3u8
